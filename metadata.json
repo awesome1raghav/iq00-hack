@@ -1,0 +1,6 @@
+{
+  "name": "GRAPH - Scam Intelligence & Mule Containment",
+  "description": "On-device social-engineering fraud detection and inter-bank mule network containment protocol with real-time sync, dark mode, and zero personal data leakage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
